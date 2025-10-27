@@ -140,14 +140,12 @@ void UnlockAbilitiesBasedOnScene()
 The game features an extensive dialogue system with:
 - Character-specific portraits and speaking styles
 - Tutorial integration within narrative context
-- Branching dialogue options for player engagement
 - Lore delivery through character interactions
 
 ### Technical Specifications
 - **Target Resolution:** 1920x1080
 - **Input Methods:** Keyboard and Gamepad support
 - **Performance Targets:** 60 FPS on mid-range systems
-- **Build Platforms:** Windows, MacOS, Linux
 
 
 ---
