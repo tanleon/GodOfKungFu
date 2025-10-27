@@ -1,6 +1,6 @@
 # God of Kung Fu - Technical Design Document
 
-[Watch the Level 1 video](./Level%201.mp4)
+[Download the Project Document](project_ GodOfKungFu.docx.pdf)
 
 ## Table of Contents
 - [Game Introduction](#game-introduction)
