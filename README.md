@@ -1,6 +1,6 @@
 # God of Kung Fu - Technical Design Document
 
-[Download the Project Document](project_ GodOfKungFu.docx.pdf)
+[Download the Project Document]("project_ GodOfKungFu.pdf")
 
 ## Table of Contents
 - [Game Introduction](#game-introduction)
