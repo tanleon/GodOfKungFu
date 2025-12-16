@@ -10,6 +10,28 @@
 - [Level Design](#level-design)
 - [Appendix](#appendix)
 
+  
+
+<img src="https://github.com/user-attachments/assets/9dcd2df2-2a61-40ee-a967-a0b80cda2c62" width="600" />
+
+<img src="https://github.com/user-attachments/assets/c8391247-a8a3-41dd-b773-3bda3a023869" width="600" />
+
+<img src="https://github.com/user-attachments/assets/56ac5b96-9803-4a32-864f-81204c16f1bb" width="600" />
+
+<img src="https://github.com/user-attachments/assets/0f75ffd4-5554-455f-8f5b-f0ba70a5268e" width="600" />
+
+<img src="https://github.com/user-attachments/assets/63317a22-fbcd-44f7-937d-cd363d92f421" width="600" />
+
+<img src="https://github.com/user-attachments/assets/f926e605-0559-411f-b8be-29b23d7cd94f" width="600" />
+
+<img src="https://github.com/user-attachments/assets/37a76c1a-8792-4a94-86f2-7b61a034819b" width="600" />
+
+<img src="https://github.com/user-attachments/assets/c42df611-656b-4657-aa21-2dd17779e063" width="600" />
+
+<img src="https://github.com/user-attachments/assets/ea4156e5-d86a-4334-ae51-4ed278a6cdbb" width="600" />
+
+
+
 ## Game Introduction
 
 **Title:** God of Kung Fu  
